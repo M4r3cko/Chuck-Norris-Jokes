@@ -1,7 +1,9 @@
 # Chuck Norris Jokes
 
 This project was a colaboration with a friend of mine with free API which provides jokes and categories.
-It is deployed on vercel - jokes-app-blue.vercel.app
+It is deployed on vercel - 
+
+jokes-app-blue.vercel.app
 
 ## Available Scripts
 
