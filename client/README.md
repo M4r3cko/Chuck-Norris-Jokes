@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Chuck Norris Jokes
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was a colaboration with a friend of mine with free API which provides jokes and categories.
+It is deployed on vercel - jokes-app-blue.vercel.app
 
 ## Available Scripts
 
